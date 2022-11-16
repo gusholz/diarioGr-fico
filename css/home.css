@@ -95,6 +95,11 @@ video{
     margin-bottom: 40px;
 }
 
+.imagem{
+    max-width: 512px;
+    height: fit-content;
+}
+
 .linkSite{
     text-decoration: none;
     font-size: 48px;
