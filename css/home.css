@@ -70,7 +70,7 @@ p{
     font-size: 24px;
     line-height: 1.4;
     margin-top: 50px;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
     color: #FFC4B8;
 }
 
@@ -93,7 +93,6 @@ video{
 }
 
 .divLink {
-    margin-top: 30px;
     margin-bottom: 40px;
 }
 
@@ -122,6 +121,10 @@ video{
 
 .despedida{
     margin-bottom: 10%;
+}
+
+p .textoFinal{
+    margin-top: 0;
 }
 
 @media only screen and (max-width: 1526px){
